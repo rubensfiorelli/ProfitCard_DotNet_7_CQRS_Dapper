@@ -1,4 +1,4 @@
-# Api ProfitCard
+# Api ProfitCard CQRS sem uso do MediatR
 
 Api objeto de estudo, usando Dapper, MySql, desenvolvida em camadas na Clean Arch.
 
